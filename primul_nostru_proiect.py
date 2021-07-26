@@ -1,0 +1,1 @@
+print("Bun venit pe programming school")
